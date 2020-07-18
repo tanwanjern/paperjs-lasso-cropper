@@ -2,6 +2,10 @@
 
 Quick Demo: https://codepen.io/tanwanjern/pen/vYLQyew
 
+![Demo](https://github.com/tanwanjern/paperjs-lasso-cropper/blob/master/src/images/demo-gif.gif)
+
+### What is Lasso?
+The lasso (or "free form selection") is an editing tool available, with minor variations, in most digital image editing software. It is often accessed from the standard main menu (in Photoshop, Paint Tool SAI, and GIMP, as common examples), by clicking the icon of a dotted line shaped like a rope lasso, from which the common name arises.
 
 
 ## References
@@ -12,5 +16,6 @@ Quick Demo: https://codepen.io/tanwanjern/pen/vYLQyew
 
 
 
-## Pending Feature 
-#### Pinch zoom canvas on mobile ([link](https://konvajs.org/docs/sandbox/Multi-touch_Scale_Stage.html))
+## Others
+#### Pending Feature 
+1. Pinch zoom canvas on mobile ([link](https://konvajs.org/docs/sandbox/Multi-touch_Scale_Stage.html))
